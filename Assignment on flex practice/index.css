@@ -1,0 +1,67 @@
+.parent1 {
+    padding: 10px;
+    display: flex;
+}
+
+.parent2 {
+    padding: 10px;
+    display: flex;
+}
+
+.main {
+    border: 2px solid green;
+    padding: 10px;
+}
+
+.one {
+    border: 2px solid green;
+    padding: 10px;
+    flex: 1;
+    margin-right: 20px;
+}
+
+.two {
+    border: 2px solid green;
+    padding: 10px;
+    flex: 1;
+    margin-right: 20px;
+}
+
+.three {
+    border: 2px solid green;
+    padding: 10px;
+    flex: 1;
+    margin-right: 20px;
+}
+
+.four {
+    border: 2px solid green;
+    padding: 10px;
+    margin-right: 20px;
+    flex: 1;
+}
+
+.five {
+    border: 2px solid green;
+    padding: 10px;
+    margin-right: 20px;
+    flex: 1;
+}
+
+button {
+    border: none;
+    color: white;
+    background-color: blue;
+    border-radius: 20px;
+    width: 400px;
+    height: 20px;
+}
+
+.button4 {
+    border: none;
+    color: white;
+    background-color: blue;
+    border-radius: 20px;
+    width: 600px;
+    height: 20px;
+}
